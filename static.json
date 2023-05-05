@@ -1,0 +1,23 @@
+{
+  "version": "v1.0.0",
+  "notes": "Test version",
+  "pub_date": "2020-06-22T19:25:57Z",
+  "platforms": {
+    "darwin-x86_64": {
+      "signature": "Content of app.tar.gz.sig",
+      "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-x86_64.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "Content of app.tar.gz.sig",
+      "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-aarch64.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "Content of app.AppImage.tar.gz.sig",
+      "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-amd64.AppImage.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWlJFb3ZYS3B1NHovbFBWTTdjci9ZVEh6anlkOXVpWk1YZXBxenBwWlB3K3lRVGg0SUZNNmIwYVpSWGVvU3R1SWptY254YzhtZ0RlNTFOdm4wcU0vU01Ja3R6WWhTQVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgzMjgzNjUzCWZpbGU6ZGVuaWJhLXBvaW50LW9mLXNhbGVfMC4xLjBfeDY0X2VuLVVTLm1zaS56aXAKZjN0dDRSZUVDK3RrQ0NjQmJ5N3A3bjlQNmpxM0RQYVd3c1p6WXh4TEk4ME13VkdPN0hxdDlMTjdmSFpCaGdEMFpyY2tDcjR2Zld0dmUwNVRibGx5Qnc9PQo=",      
+      "url": "https://github.com/djgugu/deniba-kassa/releases/download/v1.0.0/deniba-point-of-sale_0.1.0_x64_en-US.msi.zip"
+    }
+  }
+}
